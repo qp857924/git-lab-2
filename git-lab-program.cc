@@ -15,6 +15,4 @@ int main(int argc, char const *argv[]) {
 
     /*add code*/
     return 0;
-}// main
-
-cout << "Hello Git!!" << endl;
+}// main cout << "Hello Git!!" << endl;
